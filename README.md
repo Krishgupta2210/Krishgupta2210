@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishgupta2210
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSS
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on projects
 - 📫 Krishgupta2210@gmail.com 
 - 😄 Pronouns:Krish
